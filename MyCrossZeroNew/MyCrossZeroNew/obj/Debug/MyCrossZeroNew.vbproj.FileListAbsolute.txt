@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\obj\Debug\MyCrossZeroNew.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\obj\Debug\MyCrossZeroNew.Resources.resources
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\obj\Debug\MyCrossZeroNew.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\obj\Debug\MyCrossZeroNew.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\bin\Debug\MyCrossZeroNew.exe.config
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\bin\Debug\MyCrossZeroNew.exe
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\bin\Debug\MyCrossZeroNew.pdb
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\bin\Debug\MyCrossZeroNew.xml
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\obj\Debug\MyCrossZeroNew.exe
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\obj\Debug\MyCrossZeroNew.xml
+C:\Users\User\source\repos\MyCrossZeroNew\MyCrossZeroNew\obj\Debug\MyCrossZeroNew.pdb
